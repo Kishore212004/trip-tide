@@ -62,9 +62,6 @@ Enter `npm run develop` at the root directory in terminal. This will start up th
 ![screenshot: profile](/../main/client/src/assets/screenshots/profile.png)
 
 ## Contributing
-I welcome any contributions for this repository, especially ones relevant to the current issues that this project currently has. Please feel free to submit a pull request, or even contact me via [e-mail](mailto:hayashi.demi@gmail.com).
+I welcome any contributions for this repository, especially ones relevant to the current issues that this project currently has. 
 
-## Questions
-For any questions about this repository, please contact me at [hayashi.demi@gmail.com](mailto:hayashi.demi@gmail.com).
 
-Visit my GitHub to view more of my works at [github.com/demivlkv](https://github.com/demivlkv)!
